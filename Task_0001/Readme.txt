@@ -1,8 +1,8 @@
 ||""""""""""""""""""""""""""""""""""""""""""""""""""""""||
-||							||
-||	Author		   : Urlana Sivakrishna		||
-||	Date of publish    : 02/05/2019			||
-||							||
+||														||
+||	Author		   : Urlana Sivakrishna					||
+||	Date of publish    : 02/05/2019						||
+||														||
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 How to rotate clockwise user defined string with normal string and revers string with in single line.
